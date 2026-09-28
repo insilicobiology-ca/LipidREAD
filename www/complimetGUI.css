@@ -1,0 +1,100 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  src: url('Montserrat.ttf') format('truetype');
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Montserrat;
+}
+
+/*img {*/
+/*    float: left;*/
+/*}*/
+
+body {
+  font-family: Montserrat;
+}
+
+/*div {*/
+/*    overflow: hidden;*/
+/*}*/
+
+
+.content-wrapper {
+  overflow: auto;
+}
+
+
+.main-header {
+  text-align: right;
+}
+
+
+.skin-black .main-header>.logo {
+  font-family: Montserrat;
+	background-color: #1e282c;
+	color: #ffffff;
+	border-right: 1px solid #1e282c;
+}
+
+
+.skin-black .main-header>.logo:hover {
+  background-color: #1e282c;
+  color: #ffffff;
+  border-right: 1px solid #1e282c;
+  cursor: default;
+}
+
+
+.shiny-input-container {
+	padding-bottom: 0;
+}
+
+
+.nav-tabs-custom>.nav-tabs>li.active {
+  border-top-color: #222d32;
+}
+
+
+.nav-tabs-custom>.tab-content {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+.control-label {
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+
+.shiny-input-checkboxgroup.shiny-input-container-inline label~.shiny-options-group, .shiny-input-radiogroup.shiny-input-container-inline label~.shiny-options-group {
+  margin-bottom: 30px;
+}
+
+.action-button {
+	margin-bottom: 20px;
+}
+
+
+.btn-file {
+	background-color: #ffffff;
+}
+
+
+.progress-bar {
+	background-color: #f39c12;
+}
+
+
+.myClass { 
+  font-size: 20px;
+  line-height: 50px;
+  padding: 0 15px;
+  overflow: hidden;
+  color: #333333;
+}
+
+

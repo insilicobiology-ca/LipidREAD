@@ -1,0 +1,110 @@
+Category	LipidMAPS Sub-class	Examples
+Fatty Acyls	"<a href=""https://www.lipidmaps.org/lmsd_search/420101"" target=""_blank"">Monoacylglycerols [GL0101]</a>"	MG(18:1)
+Fatty Acyls	"<a href=""https://www.lipidmaps.org/lmsd_search/420101"" target=""_blank"">Monoacylglycerols [GL0101]</a>"	MG(18:1)
+Fatty Acyls	"<a href=""https://www.lipidmaps.org/lmsd_search/420101"" target=""_blank"">Monoacylglycerols [GL0101]</a>"	MG(18:1)
+Fatty Acyls	"<a href=""https://www.lipidmaps.org/lmsd_search/430101"" target=""_blank"">Straight chain fatty acids [FA0101]</a>"	"FA(16:0), FA(18:1)"
+Fatty Acyls	"<a href=""https://www.lipidmaps.org/lmsd_search/430802"" target=""_blank"">N-acyl ethanolamines [FA0802]</a>"	NAE(18:1)
+Fatty Acyls	"<a href=""https://www.lipidmaps.org/lmsd_search/440102"" target=""_blank"">Steryl esters [ST0102]</a>"	"CE(18:1), CE(20:4)"
+Fatty Acyls	MAG(O-) [TBD]	MAG(O-)(TBD)
+Fatty Acyls	MAG(O-) [TBD]	MAG(O-)(TBD)
+Glycerolipids	"<a href=""https://www.lipidmaps.org/lmsd_search/420201"" target=""_blank"">Diacylglycerols [GL0201]</a>"	DG(16:0/18:1)
+Glycerolipids	"<a href=""https://www.lipidmaps.org/lmsd_search/420301"" target=""_blank"">Triacylglycerols [GL0301]</a>"	TG(16:0/18:1/18:2)
+Glycerolipids	DAG [TBD]	DAG(TBD)
+Glycerolipids	GP-NAE [TBD]	GP-NAE(TBD)
+Glycerolipids	NALPE [TBD]	NALPE(TBD)
+Glycerolipids	"<a href=""https://www.lipidmaps.org/lmsd_search/420101"" target=""_blank"">Monoacylglycerols [GL0101]</a>"	MG(18:1)
+Glycerolipids	"<a href=""https://www.lipidmaps.org/lmsd_search/420101"" target=""_blank"">Monoacylglycerols [GL0101]</a>"	MG(18:1)
+Glycerolipids	"<a href=""https://www.lipidmaps.org/lmsd_search/420101"" target=""_blank"">Monoacylglycerols [GL0101]</a>"	MG(18:1)
+Glycerophospholipids	NAPE [TBD]	NAPE(TBD)
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410101"" target=""_blank"">Phosphatidylcholines [GP0101]</a>"	"PC(16:0/18:1), PC(32:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410105"" target=""_blank"">Lysophosphatidylcholines [GP0105]</a>"	"LPC(16:0), LPC(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410105"" target=""_blank"">Lysophosphatidylcholines [GP0105]</a>"	"LPC(16:0), LPC(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410105"" target=""_blank"">Lysophosphatidylcholines [GP0105]</a>"	"LPC(16:0), LPC(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410105"" target=""_blank"">Lysophosphatidylcholines [GP0105]</a>"	"LPC(16:0), LPC(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410105"" target=""_blank"">Lysophosphatidylcholines [GP0105]</a>"	"LPC(16:0), LPC(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410201"" target=""_blank"">Phosphatidylethanolamines [GP0201]</a>"	"PE(16:0/18:1), PE(34:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410205"" target=""_blank"">Lysophosphatidylethanolamines [GP0205]</a>"	"LPE(16:0), LPE(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410205"" target=""_blank"">Lysophosphatidylethanolamines [GP0205]</a>"	"LPE(16:0), LPE(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410205"" target=""_blank"">Lysophosphatidylethanolamines [GP0205]</a>"	"LPE(16:0), LPE(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410205"" target=""_blank"">Lysophosphatidylethanolamines [GP0205]</a>"	"LPE(16:0), LPE(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410205"" target=""_blank"">Lysophosphatidylethanolamines [GP0205]</a>"	"LPE(16:0), LPE(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410301"" target=""_blank"">Phosphatidylserines [GP0301]</a>"	"PS(18:0/18:1), PS(36:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410305"" target=""_blank"">Lysophosphatidylserines [GP0305]</a>"	"LPS(18:0), LPS(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410305"" target=""_blank"">Lysophosphatidylserines [GP0305]</a>"	"LPS(18:0), LPS(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410305"" target=""_blank"">Lysophosphatidylserines [GP0305]</a>"	"LPS(18:0), LPS(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410305"" target=""_blank"">Lysophosphatidylserines [GP0305]</a>"	"LPS(18:0), LPS(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410305"" target=""_blank"">Lysophosphatidylserines [GP0305]</a>"	"LPS(18:0), LPS(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410401"" target=""_blank"">Phosphatidylglycerols [GP0401]</a>"	"PG(16:0/18:1), PG(34:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410405"" target=""_blank"">Lysophosphatidylglycerols [GP0405]</a>"	"LPG(16:0), LPG(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410405"" target=""_blank"">Lysophosphatidylglycerols [GP0405]</a>"	"LPG(16:0), LPG(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410405"" target=""_blank"">Lysophosphatidylglycerols [GP0405]</a>"	"LPG(16:0), LPG(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410405"" target=""_blank"">Lysophosphatidylglycerols [GP0405]</a>"	"LPG(16:0), LPG(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410405"" target=""_blank"">Lysophosphatidylglycerols [GP0405]</a>"	"LPG(16:0), LPG(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410501"" target=""_blank"">Phosphatidylinositols [GP0501]</a>"	"PI(16:0/18:1), PI(34:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410505"" target=""_blank"">Lysophosphatidylinositols [GP0505]</a>"	"LPI(18:0), LPI(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410505"" target=""_blank"">Lysophosphatidylinositols [GP0505]</a>"	"LPI(18:0), LPI(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410505"" target=""_blank"">Lysophosphatidylinositols [GP0505]</a>"	"LPI(18:0), LPI(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410505"" target=""_blank"">Lysophosphatidylinositols [GP0505]</a>"	"LPI(18:0), LPI(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/410505"" target=""_blank"">Lysophosphatidylinositols [GP0505]</a>"	"LPI(18:0), LPI(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/411001"" target=""_blank"">Phosphatidic acids [GP1001]</a>"	"PA(16:0/18:1), PA(34:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/411005"" target=""_blank"">Lysophosphatidic acids [GP1005]</a>"	"LPA(16:0), LPA(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/411005"" target=""_blank"">Lysophosphatidic acids [GP1005]</a>"	"LPA(16:0), LPA(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/411005"" target=""_blank"">Lysophosphatidic acids [GP1005]</a>"	"LPA(16:0), LPA(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/411005"" target=""_blank"">Lysophosphatidic acids [GP1005]</a>"	"LPA(16:0), LPA(18:1)"
+Glycerophospholipids	"<a href=""https://www.lipidmaps.org/lmsd_search/411005"" target=""_blank"">Lysophosphatidic acids [GP1005]</a>"	"LPA(16:0), LPA(18:1)"
+Sphingolipids	"<a href=""https://www.lipidmaps.org/lmsd_search/411201"" target=""_blank"">Cardiolipins [GP1201]</a>"	"CL(18:1)4, CL(72:4)"
+Sphingolipids	MLCL [TBD]	MLCL(TBD)
+Sphingolipids	PEth [TBD]	PEth(TBD)
+Sphingolipids	1-O- [TBD]	1-O-(TBD)
+Sphingolipids	24S-hydroxycholesterol [TBD]	24S-hydroxycholesterol(TBD)
+Sphingolipids	"<a href=""https://www.lipidmaps.org/lmsd_search/400101"" target=""_blank"">Sphingoid bases [SP0101]</a>"	"Sph(d18:1), Sph(d18:0)"
+Sphingolipids	"<a href=""https://www.lipidmaps.org/lmsd_search/400102"" target=""_blank"">Phosphorylated sphingoid bases [SP0102]</a>"	S1P(d18:1)
+Sphingolipids	"<a href=""https://www.lipidmaps.org/lmsd_search/400201"" target=""_blank"">N-acylsphingosines (ceramides) [SP0201]</a>"	"Cer(d18:1/16:0), Cer(d18:1/24:0)"
+Sphingolipids	"<a href=""https://www.lipidmaps.org/lmsd_search/400501"" target=""_blank"">Simple Glc series [SP0501]</a>"	beta-GlcCer(d18:1/16:0)
+Sphingolipids	"<a href=""https://www.lipidmaps.org/lmsd_search/400502"" target=""_blank"">Simple Gal series [SP0502]</a>"	beta-GalCer(d18:1/18:0)
+Sphingolipids	"<a href=""https://www.lipidmaps.org/lmsd_search/400601"" target=""_blank"">Lactosylceramides [SP0601]</a>"	LacCer(d18:1/16:0)
+Sphingolipids	Chol [TBD]	Chol(TBD)
+Sphingolipids	Fuc-GA1 [TBD]	Fuc-GA1(TBD)
+Sphingolipids	GA1 [TBD]	GA1(TBD)
+Sphingolipids	GA2 [TBD]	GA2(TBD)
+Sphingolipids	GB3 [TBD]	GB3(TBD)
+Sphingolipids	GB3Sph [TBD]	GB3Sph(TBD)
+Sphingolipids	GB4 [TBD]	GB4(TBD)
+Sphingolipids	GD1a [TBD]	GD1a(TBD)
+Sphingolipids	GD1b [TBD]	GD1b(TBD)
+Sphingolipids	GD1c [TBD]	GD1c(TBD)
+Sphingolipids	GD2 [TBD]	GD2(TBD)
+Sphingolipids	GD3 [TBD]	GD3(TBD)
+Sphingolipids	GM1a [TBD]	GM1a(TBD)
+Sphingolipids	GM1b [TBD]	GM1b(TBD)
+Sphingolipids	GM4 [TBD]	GM4(TBD)
+Sphingolipids	GQ1b [TBD]	GQ1b(TBD)
+Sphingolipids	GT1a [TBD]	GT1a(TBD)
+Sphingolipids	GT1b [TBD]	GT1b(TBD)
+Sphingolipids	GT2 [TBD]	GT2(TBD)
+Sphingolipids	GT3 [TBD]	GT3(TBD)
+Sphingolipids	GalNAc-GD1a [TBD]	GalNAc-GD1a(TBD)
+Sphingolipids	Gala [TBD]	Gala(TBD)
+Sphingolipids	GalaCer [TBD]	GalaCer(TBD)
+Sphingolipids	Gangliosides [SP06]	GM1(d18:1/18:0)
+Sphingolipids	Gangliosides [SP06]	GM2(d18:1/16:0)
+Sphingolipids	Gangliosides [SP06]	GM3(d18:1/16:0)
+Sphingolipids	Hex2Cer [TBD]	Hex2Cer(TBD)
+Sphingolipids	HexCer [TBD]	HexCer(TBD)
+Sphingolipids	HexChol [TBD]	HexChol(TBD)
+Sphingolipids	HexSph [TBD]	HexSph(TBD)
+Sphingolipids	LIPC [TBD]	LIPC(TBD)
+Sphingolipids	LSM [TBD]	LSM(TBD)
+Sphingolipids	PE_Cer [TBD]	PE_Cer(TBD)
+Sphingolipids	Phosphosphingolipids [SP03]	C1P(d18:1/16:0)
+Sphingolipids	Phosphosphingolipids [SP03]	"SM(d18:1/16:0), SM(d18:1/24:1)"
+Sphingolipids	SulfoGalCer [TBD]	SulfoGalCer(TBD)
+Sphingolipids	SulfoLacCer [TBD]	SulfoLacCer(TBD)
+Sphingolipids	alpha-GalCer [TBD]	alpha-GalCer(TBD)
+Sphingolipids	beta-GalChol [TBD]	beta-GalChol(TBD)
+Sphingolipids	beta-GalSph [TBD]	beta-GalSph(TBD)
+Sphingolipids	beta-GlcChol [TBD]	beta-GlcChol(TBD)
+Sphingolipids	beta-GlcSph [TBD]	beta-GlcSph(TBD)
+Sphingolipids	doxCer [TBD]	doxCer(TBD)
+Sphingolipids	doxSph [TBD]	doxSph(TBD)
+Sphingolipids	iGB3 [TBD]	iGB3(TBD)

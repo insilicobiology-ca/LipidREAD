@@ -1,0 +1,2 @@
+InputReactionText_CleanedAbbr	Enzyme_UniProtKB_AC	Organism_ID	Organism_ScientificName	Enzyme_GeneName	Rhea_ID	DOI
+Cer + PC => SM + DG	UniprotID for enzyme	TaxonID	Not necessary	actual gene name	could be empty	paper
