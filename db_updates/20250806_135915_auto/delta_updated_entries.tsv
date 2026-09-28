@@ -1,0 +1,103 @@
+entity_key	entity_type	field_name	old_value_in_production	new_value_from_current_sl	previous_value_from_snapshot_sl	is_manual_override_in_production	is_change_in_sl_since_snapshot
+SLM:000501392	molecule	molecule_name	Ganglioside Fuc-GA1	alpha-L-fucosyl-(1->2)-beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(11')-ceramide	alpha-L-fucosyl-(1->2)-beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(11')-ceramide	True	False
+SLM:000000581	molecule	molecule_name	1-(1-hydroxyalkyl)-sn-glycerol	a 1-(1-hydroxyalkyl)-sn-glycerol	a 1-(1-hydroxyalkyl)-sn-glycerol	True	False
+SLM:000389184	molecule	molecule_name	long chain fatty alcohol	a long chain fatty alcohol	a long chain fatty alcohol	True	False
+SLM:000598016	molecule	molecule_name	jasmonyl-L-isoleucinate	a jasmonyl-L-isoleucinate	a jasmonyl-L-isoleucinate	True	False
+SLM:000000538	molecule	molecule_name	very long-chain fatty acid anion	a very long-chain fatty acid anion	a very long-chain fatty acid anion	True	False
+SLM:000390097	molecule	molecule_name	Sphingoid base	Sphingoid bases	Sphingoid bases	True	False
+SLM:000389504	molecule	molecule_name	long-chain fatty acid	a long-chain fatty acid	a long-chain fatty acid	True	False
+SLM:000501438	molecule	molecule_name	hydroperoxy-fatty-acid	a hydroperoxy-fatty-acid	a hydroperoxy-fatty-acid	True	False
+SLM:000000425	molecule	molecule_name	6-(N-acetyl-alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol	a 6-(N-acetyl-alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol	a 6-(N-acetyl-alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol	True	False
+SLM:000782304	molecule	molecule_name	primary fatty amide	a primary fatty amide	a primary fatty amide	True	False
+SLM:000389373	molecule	molecule_name	long-chain acyl-CoA	a long-chain acyl-CoA	a long-chain acyl-CoA	True	False
+SLM:000501509	molecule	molecule_name	very-long-chain acyl-CoA	a very-long-chain acyl-CoA	a very-long-chain acyl-CoA	True	False
+SLM:000000541	molecule	molecule_name	6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol	a 6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol	a 6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol	True	False
+SLM:000389979	molecule	molecule_name	long-chain fatty aldehyde	a long-chain fatty aldehyde	a long-chain fatty aldehyde	True	False
+SLM:000598101	molecule	molecule_name	mannosylinositol-1-phospho-N-(2-hydroxyacyl)-4R-hydroxysphingoid base	a mannosylinositol-1-phospho-N-(2-hydroxyacyl)-4R-hydroxysphingoid base	a mannosylinositol-1-phospho-N-(2-hydroxyacyl)-4R-hydroxysphingoid base	True	False
+SLM:000389333	molecule	abbreviation	1-O-16:0-Cer(d18:1/2:0)			True	False
+SLM:000000035	molecule	abbreviation	Sph(d18:0)			True	False
+SLM:000000412	molecule	abbreviation	Sph(d18:1)			True	False
+SLM:000000623	molecule	abbreviation	Sph(d17:1)			True	False
+SLM:000389530	molecule	abbreviation	SM(d18:1/0:0)			True	False
+SLM:000000438	molecule	abbreviation	S1P(d18:1)			True	False
+SLM:000501358	molecule	abbreviation	beta-GalSph(d18:1)	psychosine	psychosine	True	False
+SLM:000000101	molecule	abbreviation	PGP	PA	PA	True	False
+SLM:000782223	molecule	abbreviation	Cer(d18:2(4E,14Z))			True	False
+SLM:000501092	molecule	sl_lipid_class	SLM:000758330	SLM:000758330 	SLM:000758330 	True	False
+SLM:000501338	molecule	sl_lipid_class	SLM:000501309	SLM:000501309 	SLM:000501309 	True	False
+SLM:000501498	molecule	sl_lipid_class	SLM:000389953	SLM:000389953 	SLM:000389953 	True	False
+SLM:000389213	molecule	sl_lipid_class	SLM:000049366	SLM:000049366 	SLM:000049366 	True	False
+SLM:000389330	molecule	sl_lipid_class	SLM:000508875	SLM:000508875 	SLM:000508875 	True	False
+SLM:000390016	molecule	sl_lipid_class	SLM:000001190	SLM:000001190 	SLM:000001190 	True	False
+SLM:000390047	molecule	sl_lipid_class	SLM:000508856	SLM:000508856 	SLM:000508856 	True	False
+SLM:000501080	molecule	sl_lipid_class	SLM:000501334	SLM:000501334 	SLM:000501334 	True	False
+SLM:000597969	molecule	sl_lipid_class	SLM:000508829	SLM:000508829 	SLM:000508829 	True	False
+SLM:000782299	molecule	sl_lipid_class	SLM:000399782	SLM:000399782 	SLM:000399782 	True	False
+SLM:000389153	molecule	sl_lipid_class	SLM:000389821	SLM:000389821 	SLM:000389821 	True	False
+SLM:000389544	molecule	sl_lipid_class	SLM:000117137	SLM:000117137 	SLM:000117137 	True	False
+SLM:000389960	molecule	sl_lipid_class	SLM:000500872	SLM:000500872 	SLM:000500872 	True	False
+SLM:000501081	molecule	sl_lipid_class	SLM:000501334	SLM:000501334 	SLM:000501334 	True	False
+SLM:000501214	molecule	sl_lipid_class	SLM:000501308	SLM:000501308 	SLM:000501308 	True	False
+SLM:000597880	molecule	sl_lipid_class	SLM:000597883	SLM:000597883 	SLM:000597883 	True	False
+SLM:000000992	molecule	sl_lipid_class	SLM:000501279	SLM:000501279 	SLM:000501279 	True	False
+SLM:000001062	molecule	sl_lipid_class	SLM:000508854	SLM:000508854 	SLM:000508854 	True	False
+SLM:000389698	molecule	sl_lipid_class	SLM:000399707	SLM:000399707 	SLM:000399707 	True	False
+SLM:000501049	molecule	sl_lipid_class	SLM:000055200	SLM:000055200 	SLM:000055200 	True	False
+SLM:000501140	molecule	sl_lipid_class	SLM:000758330	SLM:000758330 	SLM:000758330 	True	False
+SLM:000501402	molecule	sl_lipid_class	SLM:000501334	SLM:000501334 	SLM:000501334 	True	False
+SLM:000117124	molecule	sl_lipid_class	SLM:000489918	SLM:000489918 	SLM:000489918 	True	False
+SLM:000389207	molecule	sl_lipid_class	SLM:000000261	SLM:000000261 	SLM:000000261 	True	False
+SLM:000501497	molecule	sl_lipid_class	SLM:000389953	SLM:000389953 	SLM:000389953 	True	False
+SLM:000501505	molecule	sl_lipid_class	SLM:000000726	SLM:000000726 	SLM:000000726 	True	False
+SLM:000389319	molecule	sl_lipid_class	SLM:000117148	SLM:000117148 	SLM:000117148 	True	False
+SLM:000389373	molecule	sl_lipid_class	SLM:000000249	SLM:000000249 	SLM:000000249 	True	False
+SLM:000389421	molecule	sl_lipid_class	SLM:000000400	SLM:000000400 	SLM:000000400 	True	False
+SLM:000389949	molecule	sl_lipid_class	SLM:000000814	SLM:000000814 	SLM:000000814 	True	False
+SLM:000477294	molecule	sl_lipid_class	SLM:000477293	SLM:000477293 	SLM:000477293 	True	False
+SLM:000389300	molecule	sl_lipid_class	SLM:000117138	SLM:000117138 	SLM:000117138 	True	False
+SLM:000501051	molecule	sl_lipid_class	SLM:000501334	SLM:000501334 	SLM:000501334 	True	False
+SLM:000001097	molecule	sl_lipid_class	SLM:000389821	SLM:000389821 	SLM:000389821 	True	False
+SLM:000389578	molecule	sl_lipid_class	SLM:000000448	SLM:000000448 	SLM:000000448 	True	False
+SLM:000389979	molecule	sl_lipid_class	SLM:000501515	SLM:000501515 	SLM:000501515 	True	False
+SLM:000485674	molecule	sl_lipid_class	SLM:000501261	SLM:000501261 	SLM:000501261 	True	False
+SLM:000782265	molecule	sl_lipid_class	SLM:000000378	SLM:000000378 	SLM:000000378 	True	False
+SLM:000782272	molecule	sl_lipid_class	SLM:000000726	SLM:000000726 	SLM:000000726 	True	False
+SLM:000389172	molecule	sl_lipid_class	SLM:000501334	SLM:000501334 	SLM:000501334 	True	False
+SLM:000389871	molecule	sl_lipid_class	SLM:000000926	SLM:000000926 	SLM:000000926 	True	False
+SLM:000501079	molecule	sl_lipid_class	SLM:000501334	SLM:000501334 	SLM:000501334 	True	False
+SLM:000501286	molecule	sl_lipid_class	SLM:000501263	SLM:000501263 	SLM:000501263 	True	False
+SLM:000597882	molecule	sl_lipid_class	SLM:000597883	SLM:000597883 	SLM:000597883 	True	False
+SLM:000000372	molecule	sl_lipid_class	SLM:000001189	SLM:000001189 	SLM:000001189 	True	False
+SLM:000389146	molecule	sl_lipid_class	SLM:000389821	SLM:000389821 	SLM:000389821 	True	False
+SLM:000389471	molecule	sl_lipid_class	SLM:000000400	SLM:000000400 	SLM:000000400 	True	False
+SLM:000501430	molecule	sl_lipid_class	SLM:000508825	SLM:000508825 	SLM:000508825 	True	False
+SLM:000001047	molecule	sl_lipid_class	SLM:000508855	SLM:000508855 	SLM:000508855 	True	False
+SLM:000001050	molecule	sl_lipid_class	SLM:000000725	SLM:000000725 	SLM:000000725 	True	False
+SLM:000389192	molecule	sl_lipid_class	SLM:000000329	SLM:000000329 	SLM:000000329 	True	False
+SLM:000501083	molecule	sl_lipid_class	SLM:000500250	SLM:000500250 	SLM:000500250 	True	False
+SLM:000501283	molecule	sl_lipid_class	SLM:000501266	SLM:000501266 	SLM:000501266 	True	False
+SLM:000501404	molecule	sl_lipid_class	SLM:000501334	SLM:000501334 	SLM:000501334 	True	False
+SLM:000501485	molecule	sl_lipid_class	SLM:000389953	SLM:000389953 	SLM:000389953 	True	False
+SLM:000389188	molecule	sl_lipid_class	SLM:000000413	SLM:000000413 	SLM:000000413 	True	False
+SLM:000501089	molecule	sl_lipid_class	SLM:000500872	SLM:000500872 	SLM:000500872 	True	False
+SLM:000501142	molecule	sl_lipid_class	SLM:000758330	SLM:000758330 	SLM:000758330 	True	False
+SLM:000501499	molecule	sl_lipid_class	SLM:000389953	SLM:000389953 	SLM:000389953 	True	False
+SLM:000001136	molecule	sl_lipid_class	SLM:000389821	SLM:000389821 	SLM:000389821 	True	False
+SLM:000501510	molecule	sl_lipid_class	SLM:000047888	SLM:000047888 	SLM:000047888 	True	False
+SLM:000508809	molecule	sl_lipid_class	SLM:000501324	SLM:000501324 	SLM:000501324 	True	False
+SLM:000000898	molecule	sl_lipid_class	SLM:000000400	SLM:000000400 	SLM:000000400 	True	False
+SLM:000389214	molecule	sl_lipid_class	SLM:000047888	SLM:000047888 	SLM:000047888 	True	False
+SLM:000390137	molecule	sl_lipid_class	SLM:000508873	SLM:000508873 	SLM:000508873 	True	False
+SLM:000501094	molecule	sl_lipid_class	SLM:000000403	SLM:000000403 	SLM:000000403 	True	False
+SLM:000501213	molecule	sl_lipid_class	SLM:000501308	SLM:000501308 	SLM:000501308 	True	False
+SLM:000598002	molecule	sl_lipid_class	SLM:000508825	SLM:000508825 	SLM:000508825 	True	False
+SLM:000782304	molecule	sl_lipid_class	SLM:000485372	SLM:000485372 	SLM:000485372 	True	False
+SLM:000389331	molecule	sl_lipid_class	SLM:000508875	SLM:000508875 	SLM:000508875 	True	False
+SLM:000389532	molecule	sl_lipid_class	SLM:000117130	SLM:000117130 	SLM:000117130 	True	False
+SLM:000390136	molecule	sl_lipid_class	SLM:000508873	SLM:000508873 	SLM:000508873 	True	False
+SLM:000501052	molecule	sl_lipid_class	SLM:000501334	SLM:000501334 	SLM:000501334 	True	False
+SLM:000501251	molecule	sl_lipid_class	SLM:000501263	SLM:000501263 	SLM:000501263 	True	False
+SLM:000501087	molecule	sl_lipid_class	SLM:000500250	SLM:000500250 	SLM:000500250 	True	False
+SLM:000501285	molecule	sl_lipid_class	SLM:000501263	SLM:000501263 	SLM:000501263 	True	False
+P04062	enzyme	enzyme_name	GBA1	GBA	GBA	True	False
+O70582	enzyme	swisslipids_p_id	SLP:000000658	SLP:000000942	SLP:000000942	True	False

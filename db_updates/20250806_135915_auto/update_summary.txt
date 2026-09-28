@@ -1,0 +1,13 @@
+LipidCRED Database Update Summary
+Generated on: 2025-08-06 14:00:13
+Data Timestamp (source files): N/A
+
+New Organisms Found: 0
+New Molecules Found: 0
+New Reaction Definitions Found: 0
+New Enzyme Definitions Found: 0
+New Reaction-Enzyme links Found: 0
+Potential Field Updates Found: 102
+
+Review the generated CSV files in the same directory.
+After review, rename relevant files to 'approved_...' and use the 'apply' mode.

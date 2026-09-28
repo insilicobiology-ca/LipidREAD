@@ -1,0 +1,4 @@
+Summary of New Entities Inserted or Linked During 'apply' Phase
+======================================================================
+
+No new entities were inserted into the database during this run.
